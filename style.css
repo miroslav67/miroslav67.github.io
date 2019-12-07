@@ -33,3 +33,9 @@ img {
 img:hover {
 	transform: scale(1.1);
 }
+
+footer {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: smaller;
+	text-align: center
+}
